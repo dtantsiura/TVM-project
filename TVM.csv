@@ -1,4 +1,4 @@
-investment,instrument,opening_price,closing_price,shares,dividend_percent,Unnamed: 6,capital_gains,dividend_income,total_end_values,profit,profit_percent
+investment,instrument,opening_price,closing_price,shares,dividend_percent,,capital_gains,dividend_income,total_end_values,profit,profit_percent
 6000,MSFT,243.08,376.04,24.683231857824584,0.0071,,3281.8825078163572,42.6,9324.482507816358,3324.4825078163576,55.40804179693929
 6000,VTI,192.38,237.22,31.18827320927332,0.0142,,1398.4821707038154,85.2,7483.682170703815,1483.6821707038152,24.72803617839692
 6000,BTC,16547.91,42265.19,0.3625835528474593,0.0,,9324.66275197291,0.0,15324.66275197291,9324.66275197291,155.41104586621518
